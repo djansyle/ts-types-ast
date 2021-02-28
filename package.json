@@ -1,0 +1,21 @@
+{
+  "name": "ts-types-ast",
+  "version": "1.0.0",
+  "description": "GraphQL AST types",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djansyle/ts-types-ast.git"
+  },
+  "keywords": [
+    "GrahpQL",
+    "AST",
+    "types",
+    "typescript"
+  ],
+  "author": "djansyle",
+  "bugs": {
+    "url": "https://github.com/djansyle/ts-types-ast/issues"
+  },
+  "homepage": "https://github.com/djansyle/ts-types-ast#readme"
+}
